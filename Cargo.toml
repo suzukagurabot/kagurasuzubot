@@ -1,0 +1,9 @@
+[package]
+name = "kagura_suzu_bot"
+version = "0.1.0"
+authors = ["KaguraSuzuBot <suzukagurabot@gmail.com>"]
+
+[dependencies]
+serde = "*"
+toml = "*"
+serde_derive = "*"
