@@ -7,3 +7,4 @@ authors = ["KaguraSuzuBot <suzukagurabot@gmail.com>"]
 serde = "*"
 toml = "*"
 serde_derive = "*"
+rand = "*"
